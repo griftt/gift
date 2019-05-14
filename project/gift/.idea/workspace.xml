@@ -2,31 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca6d3873-ca26-4780-b211-4a6417c0f814" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/admin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-biz/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-biz/src/main/java/com/wsh/gift/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-biz/src/test/java/com/wsh/gift/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-core/src/main/java/com/wsh/gift/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-core/src/test/java/com/wsh/gift/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-gene/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-gene/src/main/java/com/wsh/gift/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-gene/src/test/java/com/wsh/gift/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-rest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-rest/src/main/java/com/wsh/gift/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gift-rest/src/test/java/com/wsh/gift/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/site/apt/index.apt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/site/markdown/markdown-velocity.md.vm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/site/markdown/markdown.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/site/site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/hello/Hi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-admin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gift-admin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-biz/target/gift-biz-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gift-biz/target/gift-biz-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-biz/target/surefire-reports/TEST-com.wsh.gift.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gift-biz/target/surefire-reports/TEST-com.wsh.gift.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-biz/target/surefire-reports/com.wsh.gift.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gift-biz/target/surefire-reports/com.wsh.gift.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-core/target/gift-core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gift-core/target/gift-core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-core/target/surefire-reports/TEST-com.wsh.gift.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gift-core/target/surefire-reports/TEST-com.wsh.gift.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-core/target/surefire-reports/com.wsh.gift.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gift-core/target/surefire-reports/com.wsh.gift.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-gene/target/gift-gene-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gift-gene/target/gift-gene-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-gene/target/surefire-reports/TEST-com.wsh.gift.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gift-gene/target/surefire-reports/TEST-com.wsh.gift.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-gene/target/surefire-reports/com.wsh.gift.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gift-gene/target/surefire-reports/com.wsh.gift.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-parent.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-rest/target/gift-rest-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/gift-rest/target/gift-rest-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-rest/target/gift-rest-1.0-SNAPSHOT/WEB-INF/lib/gift-biz-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gift-rest/target/gift-rest-1.0-SNAPSHOT/WEB-INF/lib/gift-biz-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-rest/target/gift-rest-1.0-SNAPSHOT/WEB-INF/lib/gift-core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gift-rest/target/gift-rest-1.0-SNAPSHOT/WEB-INF/lib/gift-core-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-rest/target/surefire-reports/TEST-com.wsh.gift.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gift-rest/target/surefire-reports/TEST-com.wsh.gift.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gift-rest/target/surefire-reports/com.wsh.gift.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gift-rest/target/surefire-reports/com.wsh.gift.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,22 +41,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3100">
-              <caret line="174" column="18" lean-forward="true" selection-start-line="174" selection-start-column="18" selection-end-line="174" selection-end-column="18" />
+            <state relative-caret-position="3560">
+              <caret line="196" column="42" selection-start-line="196" selection-start-column="42" selection-end-line="196" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gift-admin/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="440">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GiftAdminApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gift-admin/src/main/java/com/wsh/gift/GiftAdminApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,8 +87,8 @@
         <entry file="file://$PROJECT_DIR$/gift-core/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            <state relative-caret-position="-420">
+              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -128,8 +134,9 @@
         <option value="$PROJECT_DIR$/gift-biz/pom.xml" />
         <option value="$PROJECT_DIR$/gift-admin/src/main/java/com/gift/GiftApplication.java" />
         <option value="$PROJECT_DIR$/gift-admin/src/main/java/com/wsh/gift/GiftAdminApplication.java" />
-        <option value="$PROJECT_DIR$/gift-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/gift-admin/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/gift-admin/pom.xml" />
       </list>
     </option>
   </component>
@@ -158,17 +165,16 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gift-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="gift" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gift-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="gift-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="gift" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gift-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -180,7 +186,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="46" />
     <option name="width" value="1635" />
@@ -193,9 +199,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,15 +208,11 @@
               <item name="gift" type="b2602c69:ProjectViewProjectNode" />
               <item name="gift" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gift" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gift" type="462c0819:PsiDirectoryNode" />
-              <item name="gift-admin" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -223,7 +224,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -247,6 +248,11 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="GiftAdminApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.wsh.gift.GiftAdminApplication" />
+      <module name="gift-admin" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -313,20 +319,22 @@
       <workItem from="1551230346062" duration="10163000" />
       <workItem from="1551252144900" duration="5528000" />
       <workItem from="1551257794363" duration="1542000" />
-      <workItem from="1551316605480" duration="1310000" />
+      <workItem from="1551316605480" duration="2549000" />
+      <workItem from="1551403115459" duration="3423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22900000" />
+    <option name="totallyTimeSpent" value="27562000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1861" height="1096" extended-state="7" />
+    <frame x="-8" y="-8" width="1861" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32916668" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -334,20 +342,19 @@
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.2842865" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38517746" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.057351407" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.209375" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58289886" visible="true" weight="0.20988339" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5814536" visible="true" weight="0.21210438" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" weight="0.2182121" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" sideWeight="0.41710114" side_tool="true" visible="true" weight="0.20988339" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.41907153" side_tool="true" weight="0.21210438" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.16788322" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32916668" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -364,6 +371,54 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gift-admin/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gift-biz/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gift-core/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gift-gene/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gift-rest/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1420">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
@@ -557,14 +612,6 @@
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.0.1.RELEASE/spring-boot-starter-parent-2.0.1.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gift-core/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gift-gene/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
@@ -594,26 +641,47 @@
     <entry file="file://$PROJECT_DIR$/gift-admin/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/gift-parent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gift-core/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gift-admin/gift-admin.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3560">
+          <caret line="196" column="42" selection-start-line="196" selection-start-column="42" selection-end-line="196" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gift-admin/src/main/java/com/wsh/gift/GiftAdminApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="200">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gift-admin/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3100">
-          <caret line="174" column="18" lean-forward="true" selection-start-line="174" selection-start-column="18" selection-end-line="174" selection-end-column="18" />
+        <state relative-caret-position="440">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -647,7 +715,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -683,7 +751,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Web|gift-admin</last-edited>
+          <last-edited>gift-parent</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
